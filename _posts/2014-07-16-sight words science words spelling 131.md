@@ -6,7 +6,11 @@ youtubeId: jQiCkLfe27c
  
  
 Learn sight words spelling
- 
+
+Learn by repetition
+
+practice spelling
+
  
  
  
