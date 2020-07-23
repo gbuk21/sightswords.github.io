@@ -7,7 +7,7 @@ youtubeId: jQiCkLfe27c
  
 Learn sight words spelling
  
- 
+Learn by repetition 
  
  
 {% include youtubePlayer.html id=page.youtubeId %}
