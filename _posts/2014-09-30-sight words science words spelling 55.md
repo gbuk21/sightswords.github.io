@@ -8,7 +8,9 @@ youtubeId: XDG8b8zysmo
 Learn sight words spelling
  
  
- 
+Learn by repetition
+
+practice spelling
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
