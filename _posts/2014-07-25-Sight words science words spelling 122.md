@@ -5,13 +5,13 @@ youtubeId: hrW9rJE74zQ
 ---
  
  
-Learn sight words spelling
+Helps to learn sight words and their spelling.
+
+Opportunitiy to repeat the spelling. 
+
+Practice spelling. 
  
-Learn by repetition 
- 
-practice spelling 
- 
-practice for spelling bee competitions 
+Practice for spelling bee competitions. 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  

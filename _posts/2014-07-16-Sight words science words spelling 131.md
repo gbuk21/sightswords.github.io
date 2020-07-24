@@ -4,15 +4,15 @@ title: sight words science words spelling 131
 youtubeId: jQiCkLfe27c
 ---
  
-Learn sight words spelling 
-
-Learn by repetition 
-
-practice spelling 
-
-practice for spelling bee competitions 
  
+Helps to learn sight words and their spelling.
 
+Opportunitiy to repeat the spelling. 
+
+Practice spelling. 
+ 
+Practice for spelling bee competitions. 
+ 
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
