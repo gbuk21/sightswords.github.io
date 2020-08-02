@@ -16,3 +16,5 @@ Practice for spelling bee competitions.
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
+
+{% include analytics.html %}
