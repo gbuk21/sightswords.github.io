@@ -16,4 +16,6 @@ Practice for spelling bee competitions.
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
-{% include analytics.html %}
+{% include analytics.html %} 
+[Next]({{ site.baseurl }}{% link  split3/_posts/2020-02-12-Math divisions part 19.md%})
+ 

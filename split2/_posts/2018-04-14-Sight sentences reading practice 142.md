@@ -16,4 +16,6 @@ Practice for spelling bee competitions.
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
-{% include analytics.html %}
+{% include analytics.html %} 
+[Next]({{ site.baseurl }}{% link  split2/_posts/2019-03-24-Sight words reading practice 320.md%})
+ 

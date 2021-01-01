@@ -17,4 +17,6 @@ Practice for spelling bee competitions.
  
  
 {% include analytics.html %}
-{% include analytics.html %}
+{% include analytics.html %} 
+[Next]({{ site.baseurl }}{% link  split3/_posts/2020-03-16-Math multiplications part 4.md%})
+ 
