@@ -16,6 +16,6 @@ Practice for spelling bee competitions.
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
-{% include analytics.html %} 
+
 [Next]({{ site.baseurl }}{% link  split2/_posts/2017-12-27-Sight sentences reading practice 247.md%})
  

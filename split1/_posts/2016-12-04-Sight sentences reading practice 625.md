@@ -17,6 +17,6 @@ Practice for spelling bee competitions.
  
  
 
-{% include analytics.html %} 
+
 [Next]({{ site.baseurl }}{% link  split3/_posts/2020-04-08-Math subtractions part 1.md%})
  
