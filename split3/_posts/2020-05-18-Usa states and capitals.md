@@ -3,8 +3,12 @@ layout: post
 title: USA states and capitals
 youtubeId: 3XYvW0YqbvE
 ---
+
+In this video, you will learn about USA states and capitals and state codes
+
  <h4>state	capital</h4>
  
+------------------
 Alabama	Montgomery
 
 Alaska	Juneau
