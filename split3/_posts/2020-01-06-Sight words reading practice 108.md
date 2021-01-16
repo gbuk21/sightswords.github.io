@@ -5,7 +5,7 @@ youtubeId: 2NCWOTtE5EY
 ---
  
  
-<h4> In this video, you will learn the following sightwords and spellings.</h4> 
+<h4> In this video, you will learn the following sightwords and spellings. You will have an opportunitiy to repeat the spelling. #MemorizeSpelling #SightWordsSpelling</h4> 
 
 <table>
 <tr><td> Feed </td> </tr>
