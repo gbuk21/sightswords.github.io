@@ -5,13 +5,16 @@ youtubeId: 7_VDA3YE1KA
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the following dynosaurs names and spellings
 
-Opportunitiy to repeat the spelling. 
+1 - Coelophysis
+2 - Compsognathus
+3 - Deinonychus
+4 - Dilophosaurus
+5 - Diplodocus
+6 - Gallimimus
+7 - Giganotosaurus
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
