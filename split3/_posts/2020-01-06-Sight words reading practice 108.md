@@ -8,29 +8,28 @@ youtubeId: 2NCWOTtE5EY
 <h4> In this video, you will learn the following sightwords and spellings.</h4> 
 
 <table>
+<tr><td> Feed </td> </tr>
 
-<tr> Feed </tr>
+<tr><td> Collect </td> </tr>
 
-<tr> Collect </tr>
+<tr><td> Additional </td> </tr>
 
-<tr> Additional </tr>
+<tr><td> Highly </td> </tr>
 
-<tr> Highly </tr>
+<tr><td> Identity </td> </tr>
 
-<tr> Identity </tr>
+<tr><td> Title </td> </tr>
 
-<tr> Title </tr>
+<tr><td> Mostly </td> </tr>
 
-<tr> Mostly </tr>
+<tr><td> Lesson </td> </tr>
 
-<tr> Lesson </tr>
+<tr><td> Faith </td> </tr>
 
-<tr> Faith </tr>
+<tr><td> River </td> </tr>
 
-<tr> River </tr>
+<tr><td> Promote </td> </tr>
 
-<tr> Promote </tr> 
- 
 </table>
 
 {% include youtubePlayer.html id=page.youtubeId %}
