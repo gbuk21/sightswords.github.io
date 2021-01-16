@@ -7,6 +7,8 @@ youtubeId: 2NCWOTtE5EY
  
 <h4> In this video, you will learn the following sightwords and spellings.</h4> 
 
+<table>
+
 <tr> Feed </tr>
 
 <tr> Collect </tr>
@@ -29,6 +31,8 @@ youtubeId: 2NCWOTtE5EY
 
 <tr> Promote </tr> 
  
+</table>
+
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
