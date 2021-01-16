@@ -4,14 +4,35 @@ title: Sight Words reading practice 111
 youtubeId: lcdh8_V1tVw
 ---
  
- 
-Helps to learn sight words and their spelling.
+<h4> In this video, you will learn the following sightwords and spellings.</h4> 
 
-Opportunitiy to repeat the spelling. 
+1) Associate
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Critic
+
+3) Warm
+
+4) Aspect
+
+5) Insist
+
+6) Failure
+
+7) Annual
+
+8) French
+
+9) Christmas
+
+10) Comment
+
+11) Responsible
+
+
+
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
