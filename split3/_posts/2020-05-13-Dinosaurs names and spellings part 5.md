@@ -5,13 +5,24 @@ youtubeId: 4RXtKzVV8Ng
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the following dynosaurs names and spellings
 
-Opportunitiy to repeat the spelling. 
+1 - Ornithomymus
 
-Practice spelling. 
+2 - Oviraptor
+
+3 - Plateosaurus
+
+4 - Saltopus
+
+5 - Sauropod
+
+6 - Spinosaurus
+
+7 - Suchomimus
+
+8 - Supersaurus
  
-Practice for spelling bee competitions. 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
