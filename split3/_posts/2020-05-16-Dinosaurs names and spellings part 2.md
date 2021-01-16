@@ -4,6 +4,9 @@ title: Dinosaurs names and spellings part 2
 youtubeId: z8jgOnNH1AI
 ---
  
+In this video, you will learn the following dynosaurs names and spellings
+ 
+ 
 1 - Barosaurus
 
 2 - Baryonyx
