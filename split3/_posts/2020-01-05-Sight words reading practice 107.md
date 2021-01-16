@@ -5,13 +5,32 @@ youtubeId: MqsNMsLsEcY
 ---
  
  
-Helps to learn sight words and their spelling.
+<h4> In this video, you will learn the following sightwords and spellings.</h4>
 
-Opportunitiy to repeat the spelling. 
+1 - Pound
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2 - Basis
+
+3 - Bright
+
+4 - Operate
+
+5 - Guest
+
+6 - Sample
+
+7 - Contribute
+
+8 - Tiny
+
+9 - Block
+
+10 - Protection
+
+11 - Settle
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
