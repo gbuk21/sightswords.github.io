@@ -5,13 +5,37 @@ youtubeId: GM73v_AcZWM
 ---
  
  
-Helps to learn sight words and their spelling.
+<h4> In this video, you will learn the following sightwords and spellings. You will have an opportunitiy to repeat the spelling. #MemorizeSpelling #SightWordsSpelling</h4>
 
-Opportunitiy to repeat the spelling. 
+anybody
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+murder
+
+gift
+
+religion
+
+review
+
+editor
+
+engage
+
+coffee
+
+document
+
+speed
+
+cross
+
+
+
+
+
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
