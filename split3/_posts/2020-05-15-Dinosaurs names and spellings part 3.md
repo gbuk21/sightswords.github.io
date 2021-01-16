@@ -8,11 +8,17 @@ youtubeId: 7_VDA3YE1KA
 In this video, you will learn the following dynosaurs names and spellings
 
 1 - Coelophysis
+
 2 - Compsognathus
+
 3 - Deinonychus
+
 4 - Dilophosaurus
+
 5 - Diplodocus
+
 6 - Gallimimus
+
 7 - Giganotosaurus
 
  
