@@ -4,6 +4,7 @@ title: USA states and capitals
 youtubeId: 3XYvW0YqbvE
 ---
  <h4>state	capital</h4>
+ 
 Alabama	Montgomery
 
 Alaska	Juneau
