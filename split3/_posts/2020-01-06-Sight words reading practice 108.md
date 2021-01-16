@@ -5,13 +5,29 @@ youtubeId: 2NCWOTtE5EY
 ---
  
  
-Helps to learn sight words and their spelling.
+<h4> In this video, you will learn the following sightwords and spellings.</h4> 
 
-Opportunitiy to repeat the spelling. 
+<tr> Feed </tr>
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+<tr> Collect </tr>
+
+<tr> Additional </tr>
+
+<tr> Highly </tr>
+
+<tr> Identity </tr>
+
+<tr> Title </tr>
+
+<tr> Mostly </tr>
+
+<tr> Lesson </tr>
+
+<tr> Faith </tr>
+
+<tr> River </tr>
+
+<tr> Promote </tr> 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
