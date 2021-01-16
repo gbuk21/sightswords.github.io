@@ -5,13 +5,37 @@ youtubeId: n23WY_RWUTU
 ---
  
  
-Helps to learn sight words and their spelling.
+<h4> In this video, you will learn the following sightwords and spellings.</h4> 
 
-Opportunitiy to repeat the spelling. 
+1) Living
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Count
+
+3) Unless
+
+4) Marry
+
+5) Tomorrow
+
+6) Technique
+
+7) Path
+
+8) Ear
+
+9) Shop
+
+10) Folk
+
+11) Principle
+
+
+
+------
+
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
