@@ -5,13 +5,22 @@ youtubeId: rpn_z9-5pc8
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the following dynosaurs names and spellings
 
-Opportunitiy to repeat the spelling. 
+1 - Janenchia
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2 - Jobaria
+
+3 - Majungasaurus
+
+4 - Mamenchisaurus
+
+5 - Massospondylus
+
+6 - Magalosaurus
+
+7 - Microraptor
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
