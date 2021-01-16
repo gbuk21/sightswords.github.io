@@ -5,13 +5,28 @@ youtubeId: gRECtccXAoc
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the following dynosaurs names and spellings
 
-Opportunitiy to repeat the spelling. 
+1 - Tarbosaurus
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2 - Therizinosaurus
+
+3 - Theropods
+
+4 - Torvosaurus
+
+5 - Troodon
+
+6 - Tyrannosaurus
+
+7 - Utahraptor
+
+8 - Velociraptor
+
+9 - Yangchuanosaurus
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
