@@ -5,7 +5,7 @@ youtubeId: n23WY_RWUTU
 ---
  
  
-<h4> In this video, you will learn the following sightwords and spellings.</h4> 
+<h4> In this video, you will learn the following sightwords and spellings. You will have an opportunitiy to repeat the spelling. #MemorizeSpelling #SightWordsSpelling</h4>
 
 1) Living
 
