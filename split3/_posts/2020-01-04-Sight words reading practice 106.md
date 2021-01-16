@@ -4,8 +4,7 @@ title: Sight Words reading practice 106
 youtubeId: ZqbleO0pBn0
 ---
  
- 
-In this video, you will learn the following sightwords and spellings
+<h4> In this video, you will learn the following sightwords and spellings. You will have an opportunitiy to repeat the spelling. #MemorizeSpelling #SightWordsSpelling</h4>
 
 1 - Vehicle
 
