@@ -3,11 +3,7 @@ layout: post
 title: USA states and capitals
 youtubeId: 3XYvW0YqbvE
 ---
- 
- 
-You will USA states and capitals in this video.
-
-state	capital
+ state	capital
 Alabama	Montgomery
 Alaska	Juneau
 Arizona	Phoenix
@@ -58,6 +54,7 @@ Washington	Olympia
 West Virginia	Charleston
 Wisconsin	Madison
 Wyoming	Cheyenne
+
 
  
 {% include youtubePlayer.html id=page.youtubeId %}
