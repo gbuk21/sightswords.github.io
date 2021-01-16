@@ -6,27 +6,34 @@ youtubeId: lcdh8_V1tVw
  
 <h4> In this video, you will learn the following sightwords and spellings. You will have an opportunitiy to repeat the spelling. #MemorizeSpelling #SightWordsSpelling</h4>
 
-1) Affair
+1) Associate
 
-2) Procedure
+2) Critic
 
-3) Regular
+3) Warm
 
-4) Spread
+4) Aspect
 
-5) Chairman
+5) Insist
 
-6) Baseball
+6) Failure
 
-7) Soft
+7) Annual
 
-8) Ignore
+8) French
 
-9) Egg
+9) Christmas
 
-10) Belief
+10) Comment
 
-11) Demonstrate
+11) Responsible
+
+
+
+
+
+
+
 
 
 
