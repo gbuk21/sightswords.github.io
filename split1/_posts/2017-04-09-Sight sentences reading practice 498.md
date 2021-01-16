@@ -5,13 +5,10 @@ youtubeId: 7T0mozSsA-Y
 ---
  
  
-Helps to learn sight words and their spelling.
+You will learn to read following sight words and sentences
 
-Opportunitiy to repeat the spelling. 
-
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+1) I am putting these photos on the wall
+2) The leaves are falling
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
