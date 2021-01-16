@@ -5,13 +5,32 @@ youtubeId: 6sk_S50Cb5U
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the following shapes and spellings
 
-Opportunitiy to repeat the spelling. 
+1 - Circle
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2 - Square
+
+3 - Triangel
+
+4 - Trapezoid
+
+5 - Hexagon
+
+6 - Oval
+
+7 - Pentagaon
+
+8 - Octagon
+
+9 - Rhombus
+
+10 - Heptagon
+
+11 - Nonagon
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
