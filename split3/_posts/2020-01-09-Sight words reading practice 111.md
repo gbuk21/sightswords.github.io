@@ -4,29 +4,32 @@ title: Sight Words reading practice 111
 youtubeId: lcdh8_V1tVw
 ---
  
-<h4> In this video, you will learn the following sightwords and spellings.</h4> 
+<h4> In this video, you will learn the following sightwords and spellings. You will have an opportunitiy to repeat the spelling. #MemorizeSpelling #SightWordsSpelling</h4>
 
-1) Associate
+1) Affair
 
-2) Critic
+2) Procedure
 
-3) Warm
+3) Regular
 
-4) Aspect
+4) Spread
 
-5) Insist
+5) Chairman
 
-6) Failure
+6) Baseball
 
-7) Annual
+7) Soft
 
-8) French
+8) Ignore
 
-9) Christmas
+9) Egg
 
-10) Comment
+10) Belief
 
-11) Responsible
+11) Demonstrate
+
+
+
 
 
 
