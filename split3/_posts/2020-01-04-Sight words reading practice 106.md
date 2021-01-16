@@ -5,13 +5,32 @@ youtubeId: ZqbleO0pBn0
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the following sightwords and spellings
 
-Opportunitiy to repeat the spelling. 
+1 - Vehicle
 
-Practice spelling. 
+2 - Observe
+
+3 - Flight
+
+4 - Facility
+
+5 - Understanding
+
+6 - Average
+
+7 - Emerge
+
+8 - Advantage
+
+9 - Quick
+
+10 - Leadership
+
+11 - Earn
+
+
  
-Practice for spelling bee competitions. 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
