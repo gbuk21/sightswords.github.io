@@ -5,13 +5,22 @@ youtubeId: KW6NeNF19XY
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the following Dynosaur's names and spellings
 
-Opportunitiy to repeat the spelling. 
+1)Abelisaurus
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2)Alamosaurus
+
+3)Albertosaurus
+
+4)Allosaurus
+
+5)Apatosaurus
+
+6)Archaeopteryx
+
+7)Argentinosaurus
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
