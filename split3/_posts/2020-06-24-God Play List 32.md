@@ -1,0 +1,13 @@
+---
+layout: post
+title: Play List 32
+youtubeId: PLBPbS9iq4r_qhUme1urtXPKHeoSjqBFi7
+---
+ 
+ 
+Play list of GOD's names chants.
+ 
+{% include youtubePlayer1.html id=page.youtubeId %}
+ 
+
+[Next]({{ site.baseurl }}{% link  split3/_posts/2020-06-23-God Play List 31.md%})
