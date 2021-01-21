@@ -5,13 +5,29 @@ youtubeId: 0ruRCndq44A
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following vegetable names/sightwords.
 
-Opportunitiy to repeat the spelling. 
+1) Potato
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Bell pepper
+
+3) Turnip
+
+4) Okra
+
+5) Garlic
+
+6) Calabash
+
+7) Ginger
+
+8) Chilli pepper
+
+9) Mushroom
+
+10) Sweet Potato
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
