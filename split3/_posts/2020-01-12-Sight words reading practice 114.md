@@ -7,15 +7,25 @@ youtubeId: xlE91BTYhvE
 In this video, you will learn the spelling and pronounciation of the following sightwords.
 
 1) influence
+
 2) anyway
+
 3) threaten
+
 4) commit
+
 5) female
+
 6) youth
+
 7) wave
+
 8) afraid
+
 9) quarter
+
 10) background
+
 11) native
  
 {% include youtubePlayer.html id=page.youtubeId %}
