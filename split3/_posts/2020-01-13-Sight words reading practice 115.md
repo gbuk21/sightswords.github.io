@@ -5,13 +5,34 @@ youtubeId: DoWZ6xEQWmM
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+broad
 
-Practice spelling. 
+wonderful
+
+deny
+
+apparently
+
+slightly
+
+reaction
+
+twice
+
+suit
+
+perspective
+
+growing
+
+blow
+
+
  
-Practice for spelling bee competitions. 
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
