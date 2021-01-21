@@ -5,13 +5,32 @@ youtubeId: LUVopY6ev4g
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+justice
 
-Practice spelling. 
+participate
+
+daily
+
+fair
+
+pair
+
+famous
+
+exercise
+
+knee
+
+flower
+
+tape
+
+hire
+
+
  
-Practice for spelling bee competitions. 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
