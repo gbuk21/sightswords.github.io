@@ -5,7 +5,7 @@ youtubeId: 0MJP3_BvpcA
 ---
  
  
-In this video, you will learn the spelling and pronounciation of the following words.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
 1) Hen
 
