@@ -4,14 +4,39 @@ title: Sight words spellings part 1
 youtubeId: PlxobrHHOAU
 ---
  
- 
-Helps to learn sight words and their spelling.
+ In this video, you will learn the spelling and pronounciation of the following words.
 
-Opportunitiy to repeat the spelling. 
+1) Yacht
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Animal
+
+3) Yarn
+
+4) Yak
+
+5) Aunt
+
+6) Zoo
+
+7) Zip
+
+8) Apple
+
+9) Zebra
+
+10) Baby
+
+11) Bear
+
+12) Ball
+
+13) Camel
+
+14) Car
+
+15) Cat
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
