@@ -5,13 +5,32 @@ youtubeId: 1fhFt3Iuxks
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+following
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+historical
+
+medicine
+
+tour
+
+depend
+
+photo
+
+finding
+
+grab
+
+direct
+
+classroom
+
+contact
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
