@@ -5,13 +5,29 @@ youtubeId: IQsyV1P-N48
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+mistake
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+location
+
+clothes
+
+indian
+
+quite
+
+dress
+
+promise
+
+aware
+
+neighbor
+
+function
+
+bone
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
