@@ -5,13 +5,31 @@ youtubeId: PyAbKyUV0wU
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+dangerous
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+remind
+
+moral
+
+united
+
+category
+
+relatively
+
+victory
+
+academic
+
+internet
+
+healthy
+
+negative
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
