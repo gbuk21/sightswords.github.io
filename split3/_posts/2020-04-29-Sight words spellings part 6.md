@@ -5,13 +5,27 @@ youtubeId: WtdBr51i_Yk
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+1) Village
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Van
+
+3) Vegetables
+
+4) Wheel
+
+5) Window
+
+6) Watch
+
+7) Xylophone
+
+8) Xray
+
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
