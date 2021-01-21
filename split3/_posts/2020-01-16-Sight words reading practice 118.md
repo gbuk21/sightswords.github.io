@@ -4,14 +4,29 @@ title: Sight Words reading practice 118
 youtubeId: 2kSmoQpgFsw
 ---
  
- 
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+active
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+extend
+
+chief
+
+combine
+
+wine
+
+below
+
+cool
+
+voter
+
+learning
+
+bus
+
+hell
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
