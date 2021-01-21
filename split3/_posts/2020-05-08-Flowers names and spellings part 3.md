@@ -5,13 +5,28 @@ youtubeId: vfA8LM1JBlo
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following flowers names/sightwords.
 
-Opportunitiy to repeat the spelling. 
+1) Gladiolus
 
-Practice spelling. 
+2) Oleander
+
+3) Tiger Lilly
+
+4) Daisy
+
+5) Canna
+
+6) Cactus
+
+7) Zinnia
+
+8) Calla lily
+
+9) Bougainvillea
+
  
-Practice for spelling bee competitions. 
+ 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
