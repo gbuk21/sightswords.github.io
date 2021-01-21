@@ -5,13 +5,29 @@ youtubeId: hQuSwA8qJ2Q
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following vegetable names/sightwords.
 
-Opportunitiy to repeat the spelling. 
+1) Tomato
 
-Practice spelling. 
+2) Cabbage
+
+3) Carrot
+
+4) Cauliflower
+
+5) Brussels sprout
+
+6) Asparagus
+
+7) Kohlrabi
+
+8) Spinach
+
+9) Eggplant
+
+10) Lettuce
+
  
-Practice for spelling bee competitions. 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
