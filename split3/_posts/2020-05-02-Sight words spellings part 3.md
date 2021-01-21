@@ -5,13 +5,41 @@ youtubeId: 0MJP3_BvpcA
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following words.
 
-Opportunitiy to repeat the spelling. 
+1) Hen
 
-Practice spelling. 
+2) House
+
+3) Horse
+
+4) Iron
+
+5) Ice cream
+
+6) Jam
+
+7) Jug
+
+8) Jeep
+
+9) Key
+
+10) King
+
+11) Kangaroo
+
+12) Lemon
+
+13) Lock
+
+14) Lion
+
+15) Meat
+
+
  
-Practice for spelling bee competitions. 
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
