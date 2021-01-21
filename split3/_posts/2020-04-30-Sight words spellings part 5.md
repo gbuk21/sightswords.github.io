@@ -30,7 +30,7 @@ In this video, you will learn the spelling and pronounciation of the following s
 
 12) Uniform
 
-13) Umbrell
+13) Umbrella
 
 
 
