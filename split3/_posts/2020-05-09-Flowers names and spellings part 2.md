@@ -4,14 +4,27 @@ title: Flowers names and spellings part 2
 youtubeId: TAWqKKeMAeY
 ---
  
- 
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following flowers names/sightwords.
 
-Opportunitiy to repeat the spelling. 
+1) plum blossom
 
-Practice spelling. 
+2) Daffodil
+
+3) Jasmine
+
+4) Cockscomb
+
+5) Marigold
+
+6) primrose
+
+7) champa flower
+
+8) Morning glory
+
  
-Practice for spelling bee competitions. 
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
