@@ -5,13 +5,30 @@ youtubeId: 9UcpxdQ0u30
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following vegetable names/sightwords.
 
-Opportunitiy to repeat the spelling. 
+1) Broccoflower
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Kale
+
+3) Zucchini
+
+4) Radish
+
+5) Leak
+
+6) Onion
+
+7) Beetroot
+
+8) Artichoke
+
+9) Green bean
+
+10) Bitter melon
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
