@@ -4,14 +4,36 @@ title: Sight words spellings part 5
 youtubeId: jEay2wNIfr8
 ---
  
- 
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+1) Queen
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Rat
+
+3) Rose
+
+4) Rabbit
+
+5) Sun
+
+6) Snake
+
+7) Ship
+
+8) Table
+
+9) Tree
+
+10) Train
+
+11) Ukulele
+
+12) Uniform
+
+13) Umbrell
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
