@@ -4,14 +4,29 @@ title: Sight Words reading practice 116
 youtubeId: kFDirJ9nodc
 ---
  
- 
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+construction
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+intelligence
+
+destroy
+
+cook
+
+connection
+
+burn
+
+shoe
+
+grade
+
+context
+
+committee
+
+hey
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
