@@ -4,7 +4,7 @@ title: Sight words spellings part 2
 youtubeId: 8nGsPfwqtG0
 ---
  
-In this video, you will learn the spelling and pronounciation of the following words.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
 1) Dress
 
