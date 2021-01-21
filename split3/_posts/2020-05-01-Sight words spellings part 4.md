@@ -4,14 +4,36 @@ title: Sight words spellings part 4
 youtubeId: RDSCQQ9R53E
 ---
  
- 
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following words.
 
-Opportunitiy to repeat the spelling. 
+1) Milk
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) Monkey
+
+3) Nose
+
+4) Net
+
+5) Nest
+
+6) Onion
+
+7) Orange
+
+8) Ox
+
+9) Pen
+
+10) Purse
+
+11) Parrot
+
+12) Quick
+
+13) Quill
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
