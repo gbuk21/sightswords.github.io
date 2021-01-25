@@ -5,13 +5,35 @@ youtubeId: ECeTxZ45iT8
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
+
+proposal
+
+consequence
+
+breath
+
+sight
+
+balance
+
+adopt
+
+minority
+
+straight
+
+connect 
+
+works
+
+teaching
+
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
