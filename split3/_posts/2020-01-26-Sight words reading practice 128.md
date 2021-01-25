@@ -5,13 +5,34 @@ youtubeId: HdhKrtF8DEs
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
+
+
+sweet
+
+engine
+
+fourth
+
+salt
+
+expand
+
+importance
+
+metal
+
+fat
+
+ticket
+
+software
+
+disappear
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
