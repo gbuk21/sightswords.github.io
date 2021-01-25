@@ -5,13 +5,31 @@ youtubeId: zK-YYUJ0gn0
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+yesterday
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+circle
+
+device
+
+progress
+
+bottom
+
+island
+
+exchange
+
+clean
+
+studio
+
+train
+
+lady
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
