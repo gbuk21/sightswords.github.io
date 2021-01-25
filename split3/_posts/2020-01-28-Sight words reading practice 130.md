@@ -5,13 +5,34 @@ youtubeId: 7VbOrieZU0E
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
+
+sugar
+
+planet
+
+favorite
+
+explore
+
+obtain
+
+enemy
+
+greatest
+
+complex
+
+sorround
+
+athlete
+
+invite
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
