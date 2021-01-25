@@ -4,14 +4,35 @@ title: Sight Words reading practice 125
 youtubeId: seaDVmwPK2I
 ---
  
- 
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
+
+
+male
+
+alive
+
+expression
+
+football
+
+intend
+
+chicken
+
+army
+
+abuse
+
+theater
+
+shut
+
+map
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
