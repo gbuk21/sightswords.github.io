@@ -5,13 +5,33 @@ youtubeId: 374W7utwaas
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
 
-Practice spelling. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
+
+repeat
+
+carefully
+
+soul
+
+scientific
+
+impossible
+
+panel
+
+meaning
+
+mom
+
+married
+
+instrument
+
+predict
  
-Practice for spelling bee competitions. 
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
