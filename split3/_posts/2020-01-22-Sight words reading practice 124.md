@@ -5,14 +5,35 @@ youtubeId: _65znbzro-I
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
- 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
+
+
+colleague
+
+application
+
+neck
+
+lean
+
+damage
+
+plastic
+
+tall
+
+plate
+
+hate
+
+otherwise
+
+writing
+
+
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
