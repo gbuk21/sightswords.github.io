@@ -4,14 +4,31 @@ title: Sight Words reading practice 122
 youtubeId: jfV8WUP7wvU
 ---
  
- 
-Helps to learn sight words and their spelling.
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Opportunitiy to repeat the spelling. 
+familiar
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+appropriate
+
+supply
+
+fully
+
+actor
+
+birth
+
+search
+
+tie
+
+democracy
+
+eastern
+
+primary
+
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
