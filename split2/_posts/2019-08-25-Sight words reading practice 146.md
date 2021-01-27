@@ -5,13 +5,32 @@ youtubeId: 2hieEU9AUIA
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+slip
+
+percentage
+
+meat
+
+funny
+
+neither
+
+soil
+
+surgery
+
+correct
+
+jewish
+
+blame
+
+estimate
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
