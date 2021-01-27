@@ -4,14 +4,32 @@ title: Sight Words reading practice 151
 youtubeId: jbQt4BaAlYk
 ---
  
- 
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+division
+
+confirm
+
+fix
+
+appeal
+
+mirror
+
+tooth
+
+smart
+
+length
+
+entirely
+
+rely
+
+topic
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
