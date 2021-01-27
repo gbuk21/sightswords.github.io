@@ -5,13 +5,31 @@ youtubeId: ZTQs7l7CHv0
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+due
+
+basketball
+
+golf
+
+investigate
+
+crazy
+
+significantly
+
+chain
+
+branch
+
+combination
+
+frequently
+
+governor
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
