@@ -5,13 +5,32 @@ youtubeId: DRhgnfrm0kM
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+organize
+
+jury
+
+breast
+
+iraqi
+
+acknowledge
+
+theme
+
+storm
+
+union
+
+desk
+
+thanks
+
+fruit
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
