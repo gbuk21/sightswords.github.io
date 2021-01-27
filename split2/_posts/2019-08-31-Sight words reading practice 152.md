@@ -5,13 +5,32 @@ youtubeId: davIvYn1Syk
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+complain
+
+variable
+
+telephone
+
+perception
+
+attract
+
+confidence
+
+bedroom
+
+secret
+
+debt
+
+rare
+
+tank
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
