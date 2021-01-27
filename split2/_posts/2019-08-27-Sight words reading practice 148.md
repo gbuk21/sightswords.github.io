@@ -5,14 +5,33 @@ youtubeId: XD-ntMzPnlo
 ---
  
  
-Helps to learn sight words and their spelling.
+SightWordsEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn the spelling and pronounciation of the following sightwords.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
- 
+relief
+
+user
+
+dad
+
+kick
+
+manner
+
+ancient
+
+silence
+
+rating
+
+golden
+
+motion
+
+german
+
+
 {% include youtubePlayer.html id=page.youtubeId %}
  
  
