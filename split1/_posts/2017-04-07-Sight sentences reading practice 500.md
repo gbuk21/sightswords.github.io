@@ -4,7 +4,7 @@ title: Sight sentences reading practice 500
 youtubeId: 4r1mUyVSr4Y
 ---
  
-#SightwordEnglish
+#SightwordsEnglish
 
 In this video, you will learn reading following sentences.
 
