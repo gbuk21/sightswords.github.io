@@ -4,6 +4,7 @@ title: Sight sentences reading practice 499
 youtubeId: A9QT6X-zZCg
 ---
  
+#SightwordEnglish 
  
 In this video, you will learn to read 2 sentences. 
 
