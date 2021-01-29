@@ -4,14 +4,13 @@ title: Sight sentences reading practice 500
 youtubeId: 4r1mUyVSr4Y
 ---
  
- 
-Helps to learn sight words and their spelling.
+#SightwordEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn reading following sentences.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+1) I love singing this song.
+
+2) Where do these cables go?
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
