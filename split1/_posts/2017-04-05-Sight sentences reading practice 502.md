@@ -5,13 +5,14 @@ youtubeId: duyLBN-wcAM
 ---
  
  
-Helps to learn sight words and their spelling.
+#SightwordsEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn reading following sentences.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+1) I think they go here
+
+2)They seem like good people
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
