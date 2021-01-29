@@ -4,7 +4,9 @@ title: Sight sentences reading practice 498
 youtubeId: 7T0mozSsA-Y
 ---
  
- 
+#SightwordEnglish
+
+
 You will learn to read following sight words and sentences
 
 1) I am putting these photos on the wall
