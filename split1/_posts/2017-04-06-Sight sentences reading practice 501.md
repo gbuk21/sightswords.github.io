@@ -5,13 +5,13 @@ youtubeId: xqi1-3F4j9I
 ---
  
  
-Helps to learn sight words and their spelling.
+#SightwordEnglish
 
-Opportunitiy to repeat the spelling. 
+In this video, you will learn reading following sentences.
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+1) I want to meet your family
+
+2) Who is the new student
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
