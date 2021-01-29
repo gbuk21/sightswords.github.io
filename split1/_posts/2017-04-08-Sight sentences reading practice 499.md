@@ -5,13 +5,12 @@ youtubeId: A9QT6X-zZCg
 ---
  
  
-Helps to learn sight words and their spelling.
+In this video, you will learn to read 2 sentences. 
 
-Opportunitiy to repeat the spelling. 
+1) Have you heard of this band?
 
-Practice spelling. 
- 
-Practice for spelling bee competitions. 
+2) The rain made me sick
+
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
