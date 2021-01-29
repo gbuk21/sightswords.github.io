@@ -5,7 +5,7 @@ youtubeId: xqi1-3F4j9I
 ---
  
  
-#SightwordEnglish
+#SightwordsEnglish
 
 In this video, you will learn reading following sentences.
 
